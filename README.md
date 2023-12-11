@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.wallpapersafari.com/83/96/BtXY8g.jpg) 
+[![MasterHead](https://1.bp.1.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGb11hSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rischavchanda.io)
 <h1 align="center">Hi 👋, I'm Vlad Sadokha</h1>
 <h3 align="center">A passionate Full Stacks Developer and Tester from Canada</h3>
 <img align="right" alt="Coding" width "400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vladislav887139" alt="vladislav887139" /></a> </p>
 
-- ⚡ I'm currently working on **TestPro**
+- I'm currently working on **TestPro**
 
 - 📫 How to reach me **vlad.wagonbearllc@gmail.com**
 
-- ⚡ Fun fact **Into the grind.**
+- ⚡ Fun fact **Traveled to Ukraine as a Russian citizen**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vladislav887139&show_icons=true&locale=en" alt="vladislav887139" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vladislav887139&" alt="vladislav887139" /></p>
-
