@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vlad.wagonbearllc@gmail.com**
 
-- ⚡ Fun fact **Traveled to Ukraine as a Russian citizen**
+- ⚡ Fun fact **Into the grind.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
